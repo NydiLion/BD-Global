@@ -896,6 +896,7 @@ PRIMARY KEY (
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 061e13e (Merge pull request #5 from NydiLion/Nayre)
 =======
@@ -1144,6 +1145,8 @@ FOREIGN KEY (`Debito`) REFERENCES `tbl_MovimientoBancarioEncabezado` (`DEBITO`)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4;
 
+=======
+>>>>>>> parent of 5060a43 (agregando tablas de Conciliacion Bancaria)
 -- -----------------------------------------------------
 -- FIN PROCESOS
 -- -----------------------------------------------------
