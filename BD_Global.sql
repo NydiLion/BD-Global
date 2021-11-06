@@ -895,6 +895,9 @@ PRIMARY KEY (
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 061e13e (Merge pull request #5 from NydiLion/Nayre)
 =======
 >>>>>>> parent of 061e13e (Merge pull request #5 from NydiLion/Nayre)
 =======
