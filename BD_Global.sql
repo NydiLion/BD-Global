@@ -891,6 +891,7 @@ PRIMARY KEY (
 ) ENGINE = InnoDB DEFAULT CHARACTER SET = utf8mb4;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 CREATE TABLE IF NOT EXISTS `empresarial`.`tbl_planilla_det`(
 `id_planillaDe` INT NOT NULL AUTO_INCREMENT,
 `id_planillaenc` INT NOT NULL,
@@ -1084,6 +1085,8 @@ CREATE TABLE IF NOT EXISTS `empresarial`.`tbl_NotasDeDebito` (
      CONSTRAINT `tbl_NotasDeDebitotbl_cuentabancaria1`
     FOREIGN KEY (`NumeroDeCuenta`) REFERENCES `bl_cuentabancaria` (`Numero_CuentaBancaria`))
 =======
+=======
+>>>>>>> parent of 8cac08b (Merge branch 'main' into Nayre)
 -- --------------------------------------------------------
 -- Estructura de tabla para la tabla `ConciliacionBancaria`
 -- --------------------------------------------------------
@@ -1122,6 +1125,9 @@ FOREIGN KEY (`Movimiento`) REFERENCES `tbl_MovimientoBancarioEncabezado` (`id_mo
 FOREIGN KEY (`Credito`) REFERENCES `tbl_MovimientoBancarioEncabezado` (`CREDITO`),
 FOREIGN KEY (`Debito`) REFERENCES `tbl_MovimientoBancarioEncabezado` (`DEBITO`)
 )
+<<<<<<< HEAD
+>>>>>>> parent of 8cac08b (Merge branch 'main' into Nayre)
+=======
 >>>>>>> parent of 8cac08b (Merge branch 'main' into Nayre)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4;
