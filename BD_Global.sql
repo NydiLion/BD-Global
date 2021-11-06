@@ -892,6 +892,9 @@ PRIMARY KEY (
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 061e13e (Merge pull request #5 from NydiLion/Nayre)
 CREATE TABLE IF NOT EXISTS `empresarial`.`tbl_planilla_det`(
 `id_planillaDe` INT NOT NULL AUTO_INCREMENT,
 `id_planillaenc` INT NOT NULL,
